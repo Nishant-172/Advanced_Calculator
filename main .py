@@ -1,3 +1,4 @@
+# this is a code of a advanced calculator made by nishant
 # Tkinter library ko import karte hain GUI banane ke liye
 import tkinter as tk
 import math  # Math library ko import karte hain advanced operations ke liye
